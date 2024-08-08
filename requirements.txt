@@ -1,0 +1,7 @@
+langchain
+torch
+transformers
+HuggingFace
+Chainlit
+streamlit
+python

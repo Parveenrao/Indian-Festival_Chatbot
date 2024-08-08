@@ -1,0 +1,225 @@
+{
+  
+  
+ "St. George's Day": {
+        "history": "St. George's Day, celebrated on April 23rd in England, honors Saint George, the patron saint of England.",
+        "significance": "It is a day for national pride and celebrating English heritage.",
+        "celebration_tips": "Attend parades, participate in cultural events, and enjoy traditional English foods."
+    },
+    "Mardi Gras": {
+        "history": "Mardi Gras, or Fat Tuesday, is a festival held before Lent, known for its vibrant parades and parties.",
+        "significance": "It is a time for feasting and celebration before the period of fasting during Lent.",
+        "celebration_tips": "Participate in parades, enjoy festive foods and music, and wear elaborate costumes."
+    },
+    "Rosh Hashanah": {
+        "history": "Rosh Hashanah is the Jewish New Year, marking the beginning of the High Holy Days.",
+        "significance": "It is a time for reflection, prayer, and celebrating the new year.",
+        "celebration_tips": "Attend synagogue services, eat symbolic foods like apples and honey, and reflect on the past year."
+    },
+    "Yom Kippur": {
+        "history": "Yom Kippur, the Day of Atonement, is the holiest day in the Jewish calendar.",
+        "significance": "It is observed with fasting, prayer, and seeking forgiveness.",
+        "celebration_tips": "Attend synagogue services, engage in reflection and prayer, and observe the fast."
+    },
+    "Sukkot": {
+        "history": "Sukkot is a Jewish festival commemorating the 40 years of wandering in the desert.",
+        "significance": "It involves building and dwelling in temporary structures called sukkahs.",
+        "celebration_tips": "Build and decorate a sukkah, eat meals in the sukkah, and enjoy traditional celebrations."
+    },
+    "Simchat Torah": {
+        "history": "Simchat Torah marks the end of the annual cycle of Torah readings and the beginning of a new cycle.",
+        "significance": "It is a time of joy and celebration for completing the Torah reading cycle.",
+        "celebration_tips": "Participate in dancing with the Torah scrolls, attend synagogue services, and celebrate with festive meals."
+    },
+    "Baisakhi": {
+        "history": "Baisakhi is a Sikh festival celebrating the harvest and the formation of the Khalsa.",
+        "significance": "It involves religious and cultural festivities marking the beginning of the harvest season.",
+        "celebration_tips": "Attend gurdwara services, join in processions, and enjoy traditional Punjabi foods."
+    },
+    "Loy Krathong": {
+        "history": "Loy Krathong is a Thai festival celebrated by floating decorated baskets on water.",
+        "significance": "It symbolizes the letting go of past grievances and a wish for good fortune.",
+        "celebration_tips": "Create and float a Krathong (a decorated basket) on rivers or ponds, and enjoy festive activities."
+    },
+    "Songkran": {
+        "history": "Songkran is the Thai New Year festival known for its water fights and cleansing rituals.",
+        "significance": "It marks the traditional Thai New Year and is celebrated with water activities and family gatherings.",
+        "celebration_tips": "Participate in water fights, visit temples, and enjoy traditional Thai foods."
+    },
+    "Buddha's Birthday": {
+        "history": "Buddha's Birthday celebrates the birth of Siddhartha Gautama, who became the Buddha.",
+        "significance": "It is a time for reflection and honoring the teachings of Buddha.",
+        "celebration_tips": "Attend temple ceremonies, offer flowers, and engage in acts of kindness."
+    },
+    "Obon": {
+        "history": "Obon is a Japanese Buddhist festival honoring the spirits of ancestors.",
+        "significance": "It involves visiting graves, performing traditional dances, and making offerings.",
+        "celebration_tips": "Participate in Bon Odori (traditional dance), visit family graves, and enjoy seasonal foods."
+    },
+    "Gion Matsuri": {
+        "history": "Gion Matsuri is a traditional Japanese festival held in Kyoto, featuring elaborate floats and processions.",
+        "significance": "It is one of Japan's most famous festivals, showcasing cultural traditions and craftsmanship.",
+        "celebration_tips": "Attend the floats procession, enjoy traditional foods, and participate in cultural activities."
+    },
+    "Tanabata": {
+        "history": "Tanabata, or the Star Festival, celebrates the meeting of the deities Orihime and Hikoboshi.",
+        "significance": "It involves writing wishes on paper strips and hanging them on bamboo branches.",
+        "celebration_tips": "Write your wishes on colorful paper strips, attend festivals, and enjoy traditional decorations."
+    },
+    "Hinamatsuri": {
+        "history": "Hinamatsuri, or Doll Festival, celebrates young girls and their happiness.",
+        "significance": "It is marked by displaying dolls and enjoying traditional foods.",
+        "celebration_tips": "Display hina dolls, prepare and eat traditional foods like chirashi sushi, and participate in related activities."
+    },
+    "Chuseok": {
+        "history": "Chuseok is a Korean harvest festival celebrating the fall harvest and honoring ancestors.",
+        "significance": "It involves family gatherings, traditional foods, and ancestral rites.",
+        "celebration_tips": "Prepare and enjoy traditional foods like songpyeon, perform Charye (ancestral rites), and participate in cultural games."
+    },
+    
+    "Diwali": {
+        "history": "Diwali, also known as the Festival of Lights, is an ancient Hindu festival celebrated in autumn every year. It signifies the victory of light over darkness, good over evil, and knowledge over ignorance.",
+        "significance": "Diwali is celebrated to honor Lord Rama's return to Ayodhya after a 14-year exile, during which he defeated the demon king Ravana.",
+        "celebration_tips": "Decorate your home with lights, diyas, and rangolis. Exchange sweets with family and friends, and participate in prayer rituals."
+    },
+    "Holi": {
+        "history": "Holi, the Festival of Colors, is a vibrant Hindu festival celebrated to mark the arrival of spring and the victory of good over evil.",
+        "significance": "The festival commemorates the burning of Holika and the triumph of Prahlad's devotion to Lord Vishnu.",
+        "celebration_tips": "Throw colored powders, enjoy festive foods, and participate in lively gatherings with friends and family."
+    },
+    "Eid al-Fitr": {
+        "history": "Eid al-Fitr, also known as the Festival of Breaking the Fast, is a significant religious holiday celebrated by Muslims worldwide to mark the end of Ramadan.",
+        "significance": "Eid al-Fitr is a time for Muslims to give thanks to Allah and to show empathy towards the less fortunate through charity.",
+        "celebration_tips": "Start the day with a special prayer, wear new clothes, visit friends and family, and enjoy a festive meal together."
+    },
+    "Eid al-Adha": {
+        "history": "Eid al-Adha, or the Festival of Sacrifice, commemorates the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God.",
+        "significance": "It signifies the ultimate sacrifice and obedience to God, and it involves the ritual slaughter of an animal.",
+        "celebration_tips": "Attend a special prayer service, sacrifice an animal, and distribute the meat among family, friends, and those in need."
+    },
+    "Christmas": {
+        "history": "Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25th as a religious and cultural celebration by billions of people around the world.",
+        "significance": "Christmas marks the birth of Jesus Christ, who is considered the Son of God in Christian theology. It is a time for reflection, family gatherings, and gift-giving.",
+        "celebration_tips": "Decorate a Christmas tree, exchange gifts, attend a church service, and enjoy a festive meal with family."
+    },
+    "New Year's Day": {
+        "history": "New Year's Day marks the first day of the year in the Gregorian calendar, celebrated globally to welcome the start of a new year.",
+        "significance": "It symbolizes new beginnings and is often marked with resolutions, parties, and celebrations.",
+        "celebration_tips": "Attend or host a New Year's Eve party, make resolutions for the year ahead, and enjoy festive fireworks and activities."
+    },
+    "Halloween": {
+        "history": "Halloween, celebrated on October 31st, originates from ancient Celtic festivals marking the end of harvest and the beginning of winter.",
+        "significance": "It is associated with costumes, trick-or-treating, and festivities to ward off ghosts and spirits.",
+        "celebration_tips": "Dress in costumes, go trick-or-treating, attend themed parties, and enjoy spooky decorations."
+    },
+    "Thanksgiving": {
+        "history": "Thanksgiving is a national holiday in the United States and Canada celebrating the harvest and blessings of the past year.",
+        "significance": "It is a time for giving thanks and enjoying a feast with family and friends.",
+        "celebration_tips": "Prepare and share a large meal with traditional dishes like turkey and pumpkin pie, and express gratitude for the year's blessings."
+    },
+    "Easter": {
+        "history": "Easter is a Christian festival celebrating the resurrection of Jesus Christ from the dead, observed on the first Sunday after the first full moon following the vernal equinox.",
+        "significance": "It marks the culmination of Holy Week and the end of Lent.",
+        "celebration_tips": "Attend church services, participate in Easter egg hunts, and enjoy festive meals with family."
+    },
+    "Valentine's Day": {
+        "history": "Valentine's Day, celebrated on February 14th, honors Saint Valentine and is associated with love and affection.",
+        "significance": "It is a day for expressing love through cards, gifts, and romantic gestures.",
+        "celebration_tips": "Give flowers, chocolates, and heartfelt notes to loved ones, and plan romantic dinners or outings."
+    },
+    "Independence Day": {
+        "history": "Independence Day, celebrated on July 4th in the USA, marks the anniversary of the Declaration of Independence in 1776.",
+        "significance": "It celebrates American independence and national pride.",
+        "celebration_tips": "Attend parades, enjoy fireworks, and participate in patriotic events and gatherings."
+    },
+    "Saint Patrick's Day": {
+        "history": "Saint Patrick's Day, observed on March 17th, celebrates Saint Patrick, the patron saint of Ireland.",
+        "significance": "It is a cultural and religious holiday marking Irish heritage and traditions.",
+        "celebration_tips": "Wear green, attend parades, enjoy Irish food and drinks, and participate in festivities celebrating Irish culture."
+    },
+    "Hanukkah": {
+        "history": "Hanukkah, also known as the Festival of Lights, is an eight-day Jewish holiday celebrating the rededication of the Second Temple in Jerusalem.",
+        "significance": "It commemorates the miracle of the oil that lasted eight days in the temple's menorah.",
+        "celebration_tips": "Light the menorah, play dreidel, enjoy traditional foods like latkes, and exchange gifts."
+    },
+    "Passover": {
+        "history": "Passover, or Pesach, is a Jewish holiday celebrating the liberation of the Israelites from Egyptian slavery.",
+        "significance": "It is marked by the Seder meal and the reading of the Haggadah.",
+        "celebration_tips": "Conduct a Seder meal, read the Haggadah, and eat matzah and other traditional Passover foods."
+    },
+    "Chinese New Year": {
+        "history": "Chinese New Year, or Spring Festival, marks the beginning of the lunar new year in China and other East Asian countries.",
+        "significance": "It is a time for family reunions, honoring ancestors, and celebrating with traditional customs.",
+        "celebration_tips": "Participate in family gatherings, enjoy festive foods, and watch dragon and lion dances."
+    },
+    "Oktoberfest": {
+        "history": "Oktoberfest is a 16- to 18-day festival held annually in Munich, Germany, celebrating beer, Bavarian culture, and tradition.",
+        "significance": "It is the world's largest beer festival and features traditional music, food, and costumes.",
+        "celebration_tips": "Wear traditional Bavarian clothing, enjoy various types of beer, and partake in German food and music."
+    },
+    "Carnival": {
+        "history": "Carnival is a pre-Lenten festival known for its vibrant parades, costumes, and parties, celebrated in many countries, especially in Brazil.",
+        "significance": "It marks the beginning of Lent and is a time for indulgence and festivity.",
+        "celebration_tips": "Participate in parades, wear costumes, and enjoy music and dancing."
+    },
+    "Day of the Dead": {
+        "history": "Day of the Dead, or Día de los Muertos, is a Mexican holiday celebrating deceased loved ones with colorful altars and offerings.",
+        "significance": "It honors the memory of those who have passed away, blending indigenous and Catholic traditions.",
+        "celebration_tips": "Create altars with photos and mementos of the deceased, visit cemeteries, and enjoy traditional foods."
+    },
+    "Bastille Day": {
+        "history": "Bastille Day, celebrated on July 14th in France, commemorates the French Revolution and the storming of the Bastille prison.",
+        "significance": "It symbolizes French unity and freedom.",
+        "celebration_tips": "Attend parades, enjoy fireworks, and participate in patriotic events."
+    },
+    "Sapporo Snow Festival": {
+        "history": "The Sapporo Snow Festival, held in Sapporo, Japan, showcases elaborate snow and ice sculptures.",
+        "significance": "It celebrates winter and attracts visitors from around the world.",
+        "celebration_tips": "Visit the festival to see the ice sculptures, enjoy winter activities, and sample local foods."
+    },
+    "La Tomatina": {
+        "history": "La Tomatina is an annual tomato-throwing festival held in Buñol, Spain.",
+        "significance": "It is a fun, messy event where participants throw tomatoes at each other.",
+        "celebration_tips": "Wear old clothes, protect your eyes, and enjoy the chaotic fun of tomato throwing."
+    },
+    "Makar Sankranti": {
+        "history": "Makar Sankranti is a Hindu festival marking the end of winter and the arrival of longer days.",
+        "significance": "It is celebrated with kite flying, bonfires, and traditional foods.",
+        "celebration_tips": "Fly kites, light bonfires, and enjoy sweets made from sesame seeds and jaggery."
+    },
+    "Pongal": {
+        "history": "Pongal is a multi-day Hindu festival celebrated in Tamil Nadu, India, to give thanks for the harvest.",
+        "significance": "It is celebrated with cooking traditional Pongal dish and participating in various rituals.",
+        "celebration_tips": "Cook and share the Pongal dish, decorate homes with kolams (rangoli), and participate in traditional games."
+    },
+    "Onam": {
+        "history": "Onam is an annual Hindu festival celebrated in Kerala, India, marking the return of the mythical King Mahabali.",
+        "significance": "It involves a grand feast called Onasadya and various cultural activities.",
+        "celebration_tips": "Prepare a grand feast, enjoy traditional dance forms like Thiruvathira, and participate in boat races."
+    },
+    "Vaisakhi": {
+        "history": "Vaisakhi is a significant Sikh festival celebrating the harvest and the formation of the Khalsa.",
+        "significance": "It is observed with processions, prayers, and community service.",
+        "celebration_tips": "Attend gurdwara services, participate in processions, and enjoy traditional Punjabi foods."
+    },
+    "Navratri": {
+        "history": "Navratri is a Hindu festival spanning nine nights dedicated to the goddess Durga.",
+        "significance": "It involves fasting, prayer, and dance to honor the divine feminine energy.",
+        "celebration_tips": "Participate in Garba and Dandiya dance, offer prayers, and observe fasts."
+    },
+    "Gudi Padwa": {
+        "history": "Gudi Padwa is a Marathi New Year festival celebrated with the hoisting of the Gudi (a decorated cloth) and festive meals.",
+        "significance": "It marks the beginning of a new year and the harvest season.",
+        "celebration_tips": "Hoist the Gudi, prepare and share traditional dishes like Puran Poli, and engage in community celebrations."
+    },
+    "Lunar New Year": {
+        "history": "Lunar New Year, also known as Chinese New Year or Spring Festival, marks the start of the lunar calendar.",
+        "significance": "It is celebrated with various customs to ensure good fortune and prosperity.",
+        "celebration_tips": "Enjoy family reunions, traditional foods, and various festivities such as dragon dances and fireworks."
+    },
+    "Tet": {
+        "history": "Tet, or Tet Nguyen Dan, is the Vietnamese Lunar New Year festival marking the arrival of spring.",
+        "significance": "It is a time for family reunions, paying respects to ancestors, and celebrating with traditional foods.",
+        "celebration_tips": "Prepare and enjoy traditional Vietnamese dishes, visit family and friends, and participate in cultural ceremonies."
+    }
+}
